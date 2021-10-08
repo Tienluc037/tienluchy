@@ -1,0 +1,14 @@
+tr:hover{
+    background-color: #ddd;
+    cursor: pointer;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+}
+#table2{
+    width: 100;
+    margin: auto;
+
+}
